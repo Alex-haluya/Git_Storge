@@ -3,6 +3,7 @@
 #include<math.h>
 using namespace std;
 
+//I guess i had do some changes
 int main(){
     int n = 5;
     int a[] = {2, 1, 5, 3, 4};
