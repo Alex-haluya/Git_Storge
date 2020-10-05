@@ -4,6 +4,7 @@
 using namespace std;
 
 //I guess i had do some changes
+//我的第一个git文档
 int main(){
     int n = 5;
     int a[] = {2, 1, 5, 3, 4};
